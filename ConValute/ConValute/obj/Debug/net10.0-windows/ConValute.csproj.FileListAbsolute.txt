@@ -1,0 +1,17 @@
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\bin\Debug\net10.0-windows\ConValute.exe
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\bin\Debug\net10.0-windows\ConValute.deps.json
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\bin\Debug\net10.0-windows\ConValute.runtimeconfig.json
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\bin\Debug\net10.0-windows\ConValute.dll
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\bin\Debug\net10.0-windows\ConValute.pdb
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.Form1.resources
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.csproj.GenerateResource.cache
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.AssemblyInfoInputs.cache
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.AssemblyInfo.cs
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.csproj.CoreCompileInputs.cache
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.sourcelink.json
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.dll
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\refint\ConValute.dll
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.pdb
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.genruntimeconfig.cache
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ref\ConValute.dll
