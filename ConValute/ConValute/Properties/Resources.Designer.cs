@@ -93,6 +93,16 @@ namespace ConValute.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap doge1 {
+            get {
+                object obj = ResourceManager.GetObject("doge1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ethereum {
             get {
                 object obj = ResourceManager.GetObject("ethereum", resourceCulture);
