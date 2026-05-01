@@ -15,3 +15,4 @@ C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0
 C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.pdb
 C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.genruntimeconfig.cache
 C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ref\ConValute.dll
+C:\C#_NET\windows_forms\valute_convertator\ConValute\ConValute\obj\Debug\net10.0-windows\ConValute.Properties.Resources.resources
